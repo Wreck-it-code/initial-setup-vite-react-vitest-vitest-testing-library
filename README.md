@@ -8,8 +8,8 @@ Nosso objetivo aqui será deixar um projeto web configurado utilizando ViteJS, R
 
 Irei mostrar como podemos usar a biblioteca jest-dom para deixar os nossos testes mais declarativos, e como podemos resolver simples problemas de tipagem do Typescript na nossa configuração.
 
-Vite: https://vitejs.dev/guide
-Vitest: https://vitest.dev/guide
-Testing Library React: https://testing-library.com/docs/react-testing-library/intro/
-JSDOM: https://github.com/jsdom/jsdom
-Jest DOM: https://testing-library.com/docs/ecosystem-jest-dom
+- Vite: https://vitejs.dev/guide
+- Vitest: https://vitest.dev/guide
+- Testing Library React: https://testing-library.com/docs/react-testing-library/intro/
+- JSDOM: https://github.com/jsdom/jsdom
+- Jest DOM: https://testing-library.com/docs/ecosystem-jest-dom
